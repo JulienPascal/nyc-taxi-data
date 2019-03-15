@@ -14,6 +14,10 @@ Your mileage may vary, but on my MacBook Air, this process took about 3 days to 
 
 Both are available via [Homebrew](http://brew.sh/) on Mac OS X
 
+##### 1'. Create urls
+
+`python3 create_raw_url.py`
+
 ##### 2. Download raw taxi data
 
 `./download_raw_data.sh`
